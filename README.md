@@ -78,13 +78,5 @@ This project gain lots of motivation from [githubharald/SimpleHTR](https://githu
 If you use any part of this project in your work, please cite:
 
 ```bash
-@techreport{Devnagari-handwritten-word-recognition-2019,
-  title={Devnagari Handwritten Word Recognition},
-  author={Gautam Sushant},
-  institution={Tribhuvan University},
-  year={2019}
-}
-```
-For the completion of the eighth semester in the Computer Science program at Tribhuvan University. July 2019.
 
 
